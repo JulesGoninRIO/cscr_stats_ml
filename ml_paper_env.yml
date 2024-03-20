@@ -1,0 +1,16 @@
+name: ml_paper
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - conda=23.3.0
+  - pip-system-certs
+  - jupyterlab==2.0.1
+  - python=3.9
+  - statsmodels
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+prefix: C:\Users\DelachauxL\Anaconda3\envs\ml_leon
